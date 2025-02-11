@@ -23,3 +23,13 @@ subprojects {
     group = "com.example"
     version = "1.0.0"
 }
+
+// Disable bootJar for the root project since it's just a container for submodules
+tasks.bootJar {
+    enabled = false
+}
+
+// Also disable jar for the root project
+tasks.jar {
+    enabled = false
+}

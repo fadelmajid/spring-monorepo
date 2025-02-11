@@ -1,4 +1,3 @@
-// services/service-a/src/main/java/com/example/servicea/ServiceAApplication.java
 package com.example.servicea;
 
 import org.springframework.boot.SpringApplication;

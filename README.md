@@ -3,13 +3,8 @@
 A monorepo containing multiple Spring Boot microservices.
 
 ## Project Structure 
-├── services
-│ ├── service-a
-│ ├── service-b
-│ └── service-c
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
+<img width="182" alt="Screenshot 2025-02-12 at 08 47 34" src="https://github.com/user-attachments/assets/e99c1330-4390-4310-b8d9-ad324139b49c" />
+
 
 ## Prerequisites
 - Java 17+
